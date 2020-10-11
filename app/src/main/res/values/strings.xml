@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstTry</string>
+    <string name="joke_text">Chuck Norris uses ribbed condoms inside out, so he gets the pleasure.</string>
+    <string name="reload_button">Reload</string>
+</resources>
